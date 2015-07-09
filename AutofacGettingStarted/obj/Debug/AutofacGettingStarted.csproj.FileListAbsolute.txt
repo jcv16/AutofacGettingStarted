@@ -1,0 +1,1 @@
+c:\users\jepoy\documents\visual studio 2012\Projects\AutofacGettingStarted\AutofacGettingStarted\bin\Debug\AutofacGettingStarted.exe.config
