@@ -1,1 +1,7 @@
 c:\users\jepoy\documents\visual studio 2012\Projects\AutofacGettingStarted\AutofacGettingStarted\bin\Debug\AutofacGettingStarted.exe.config
+c:\Users\jepoy\Documents\Visual Studio 2012\Projects\AutofacGettingStarted\AutofacGettingStarted\bin\Debug\AutofacGettingStarted.exe
+c:\Users\jepoy\Documents\Visual Studio 2012\Projects\AutofacGettingStarted\AutofacGettingStarted\bin\Debug\AutofacGettingStarted.pdb
+c:\Users\jepoy\Documents\Visual Studio 2012\Projects\AutofacGettingStarted\AutofacGettingStarted\bin\Debug\Autofac.dll
+c:\Users\jepoy\Documents\Visual Studio 2012\Projects\AutofacGettingStarted\AutofacGettingStarted\bin\Debug\Autofac.xml
+c:\Users\jepoy\Documents\Visual Studio 2012\Projects\AutofacGettingStarted\AutofacGettingStarted\obj\Debug\AutofacGettingStarted.exe
+c:\Users\jepoy\Documents\Visual Studio 2012\Projects\AutofacGettingStarted\AutofacGettingStarted\obj\Debug\AutofacGettingStarted.pdb
